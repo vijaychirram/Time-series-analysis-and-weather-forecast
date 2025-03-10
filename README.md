@@ -19,3 +19,21 @@ This project sets and addresses the following questions:
 ## Article
 
 [Medium post](https://medium.com/@llmkhoa511/time-series-analysis-and-weather-forecast-in-python-e80b664c7f71)
+
+datetime – The timestamp indicating when the measurements were recorded.
+T_mu – Likely the mean temperature (T) over a specific period (e.g., hourly, daily).
+Po_mu – Possibly the mean atmospheric pressure at sea level (Po).
+P_mu – Possibly the mean atmospheric pressure at station level (P).
+Ff_mu – Likely the mean wind speed (Ff).
+Tn_mu – Likely the mean minimum temperature (Tn) over a specific period.
+Tx_mu – Likely the mean maximum temperature (Tx) over a specific period.
+VV_mu – Possibly the mean visibility (VV).
+Td_mu – Likely the mean dew point temperature (Td).
+T_var – Likely the variance of temperature (T).
+Po_var – Variance of atmospheric pressure at sea level (Po).
+P_var – Variance of atmospheric pressure at station level (P).
+Ff_var – Variance of wind speed (Ff).
+Tn_var – Variance of minimum temperature (Tn).
+Tx_var – Variance of maximum temperature (Tx).
+VV_var – Variance of visibility (VV).
+Td_var – Variance of dew point temperature (Td).
